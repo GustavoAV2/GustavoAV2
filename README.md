@@ -5,4 +5,5 @@ Sou apaixonado por tecnologia e em aprender sobre.
 
 
 - 🔭 Desenvolvedor Junior na AmbevTech.
-
+- :snake: Trabalho com Python.
+- :monocle_face: Estudando C#.
