@@ -5,7 +5,8 @@ Sou apaixonado por tecnologia e em aprender sobre.
 
 
 - 🔭 Desenvolvedor Pleno na AmbevTech.
-- :snake: Trabalho com Python e C#.
+- :snake: Experiência com Python.   
+- :rocket: Experiência com C#.
 
 <div align="center">
   <a href="https://github.com/GustavoAV2">
