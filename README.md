@@ -10,8 +10,8 @@ Sou apaixonado por tecnologia e em aprender sobre.
 
 <div align="center">
   <a href="https://github.com/GustavoAV2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAV2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoAV2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoAV2&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
