@@ -1,9 +1,6 @@
 ### Bem vindo ao meu GitHub! 👋
 
-Sou Desenvolvedor Pleno, tenho experiência em projetos utilizando Python e C# .NET.
-
 Sou apaixonado por tecnologia e em aprender sobre.
-
 
 - 🔭 Desenvolvedor Pleno na AmbevTech.
 - :snake: Experiência com Python.   
