@@ -1,7 +1,5 @@
 ### Bem vindo ao meu GitHub! 👋
 
-Sou apaixonado por tecnologia e em aprender sobre.
-
 - 🔭 Desenvolvedor Pleno na AmbevTech.
 - :snake: Experiência com Python.   
 - :rocket: Experiência com C#.
