@@ -2,7 +2,7 @@
 
 - Desenvolvedor Pleno na AmbevTech 🍺.
 - Desenvolvo por trabalho e diversão, aqui você irá encontrar um pouco dos dois 👨‍💻.   
-- Algumas curiosidades: Gosto de hackathons, cinemas e FPS 🕹️.
+- Algumas curiosidades: Gosto de hackathons, cinema e FPS 🕹️.
 
 ### Linguagens
 
