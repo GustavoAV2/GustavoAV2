@@ -35,10 +35,8 @@
 <br>
 <br>
 
+![GustavoAV2 Status](https://github-readme-stats.vercel.app/api?username=GustavoAV2&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=compact)](https://github.com/GustavoAV2/github-readme-stats)
-<a href="#">
-    <img align="left" alt="GustavoAV2' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=donut-vertical&theme=dark" />
-</a>
 
 [website]: https://gustavovoltolini.com.br
 [instagram]: https://instagram.com/gustavo_volt
