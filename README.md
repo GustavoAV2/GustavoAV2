@@ -35,6 +35,7 @@
 <br>
 <br>
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=compact)](https://github.com/GustavoAV2/github-readme-stats)
 <a href="#">
     <img align="left" alt="GustavoAV2' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=donut-vertical&theme=dark" />
 </a>
