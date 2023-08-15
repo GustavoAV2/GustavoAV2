@@ -36,7 +36,7 @@
 <br>
 
 <a href="#">
-    <img align="left" alt="GustavoAV2' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=donut-vertical&theme=dark&hide=mako,scss" />
+    <img align="left" alt="GustavoAV2' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAV2&layout=donut-vertical&theme=dark" />
 </a>
 <a href="#">
     <img align="left" alt="GustavoAV2' Github Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoAV2&show_icons=true&theme=dark" />
