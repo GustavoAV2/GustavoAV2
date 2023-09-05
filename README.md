@@ -1,7 +1,7 @@
 ### Bem vindo ao meu GitHub! 👋
 
 - Desenvolvedor Pleno na AmbevTech 🍺.
-- Desenvolvo por trabalho e diversão, aqui você irá encontrar um pouco dos dois 👨‍💻.   
+- Desenvolvo por trabalho e diversão, aqui você encontrará um pouco dos dois 👨‍💻.   
 - Algumas curiosidades: Gosto de hackathons, cinema e FPS 🕹️.
 
 ### Linguagens
