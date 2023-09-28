@@ -1,10 +1,11 @@
 ### Bem vindo ao meu GitHub! 👋
-
+ [www.gustavovoltolini.com.br](https://www.gustavovoltolini.com.br/)
+ 
 - Desenvolvedor Pleno na AmbevTech 🍺.
 - Desenvolvo por trabalho e diversão, aqui você encontrará um pouco dos dois 👨‍💻.   
 - Algumas curiosidades: Gosto de hackathons, cinema e FPS 🕹️.
-- [www.gustavovoltolini.com.br](https://www.gustavovoltolini.com.br/)
 
+ 
 ### Linguagens
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
