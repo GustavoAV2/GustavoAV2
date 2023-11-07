@@ -14,19 +14,19 @@
 
 ### Frameworks e Libs
 
-![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DotNet-informational?style=flat&logo=DotNet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 
 ### Ferramentas
 
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDb-informational?style=flat&logo=MongoDb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ServiceBus-informational?style=flat&logo=ServiceBus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=AzureDevOps&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ## Onde me encontrar:
 
