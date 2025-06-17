@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
 
 ### Ferramentas
 
